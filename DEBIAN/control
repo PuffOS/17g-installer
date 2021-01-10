@@ -1,0 +1,11 @@
+Package: live-installer
+Version: 1.0
+Architecture: all
+Maintainer: Omer Furkan Yanik <omeryanik8@gmail.com>
+Installed-Size: 2000
+Depends: python3-parted, gparted, python3-geoip, python3-pillow, rsync
+Section: admin
+Priority: optional
+Description: 17g Live Installer
+ Live installler for puffOS GNU/Linux
+
